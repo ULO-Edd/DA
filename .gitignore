@@ -1,0 +1,28 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# NuGet packages (restored on build)
+packages/
+!packages.config
+
+# LocalDB / database files
+*.mdf
+*.ldf
+
+# Misc
+*.log
+*.cache
+Thumbs.db
+Desktop.ini
